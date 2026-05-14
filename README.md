@@ -1,4 +1,4 @@
-﻿# Microweber Security Advisories
+# Microweber Security Advisories
 
 This repository contains public technical references for security issues identified in Microweber v2.0.20.
 
